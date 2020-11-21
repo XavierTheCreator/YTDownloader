@@ -61,7 +61,5 @@ if __name__ == '__main__':
 
         window['-OUTPUT-'].update(title + '\nis finished downloading')
 
-        window.refresh()
-
     # Finish up by removing from the screen
     window.close()
