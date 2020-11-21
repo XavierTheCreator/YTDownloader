@@ -11,10 +11,12 @@ this is a simple youtube video downloader made completely in python using PySimp
 
 What it can currently do:
   Download a youtube video at fast speeds
+  
   Select a directory to which users want videos saved.
   
 Whats coming up next:
   Download progress bar
+  
   Multiple video downloads 
   
   
