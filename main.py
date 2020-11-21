@@ -1,5 +1,5 @@
 """
-Youtube downloader version 0.01
+Youtube downloader version 0.02
 
 Plans for 0.02
 - Allow for users to select the quality of the video. 
