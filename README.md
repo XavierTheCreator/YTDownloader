@@ -5,7 +5,7 @@ The original verison is located inside of the PythonSwissArmyKnife repo
 
 this is a simple youtube video downloader made completely in python using PySimpleGUI and pytube. 
 
-![image](https://user-images.githubusercontent.com/46163555/99821908-998c7900-2b20-11eb-96a3-bda5780a485a.png)
+![image](https://user-images.githubusercontent.com/52459675/99863247-3ecc3f00-2b6b-11eb-99f2-263abf9fe15e.png)
 
 --WORK IN PROGESS--
 
