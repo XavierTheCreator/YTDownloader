@@ -1,11 +1,6 @@
 """
 Youtube downloader version 0.02
 
-Plans for 0.03
-- Allow for users to select the quality of the video. 
-- Make a seperate screen that monitors downloads
-- Catch exception when no URL is specified or if not a url make a pop message 
-  
 """
 from PySimpleGUI import FileBrowse, FolderBrowse
 from pytube import YouTube
