@@ -96,7 +96,7 @@ if __name__ == '__main__':
             except:
                 done = True
                 print("Exception")
-                sg.popup_error("PLEASE A YOUTUBE URL")
+                sg.popup_error("PLEASE ENTER A YOUTUBE URL")
         
 
 
