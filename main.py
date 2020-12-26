@@ -1,9 +1,5 @@
 """
-Youtube downloader version 0.03
-
-Plans for 0.03
-- Allow for users to select the quality of the video.  DONE
-- Catch exception when no URL is specified or if not a url print a message DONE
+Youtube downloader
 
 
 Plans for 0.04
