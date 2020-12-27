@@ -1,7 +1,4 @@
 """
-Youtube downloader
-
-
 Plans for 0.04
 - Make a seperate screen that monitors downloads
 - Allow users to download multiple videos at once 
