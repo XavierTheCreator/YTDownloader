@@ -18,15 +18,11 @@ done = False
 title = ''
 streams = None
 
-def download_thread(url,filepath) :
+def download_thread(url,filepath):
     global done, title
     yt = YouTube(url)       
-
-    stream = yt.streams.first()
-    stream.download(filepath)
     title = yt.title
-
-    stream.download()
+    stream.download(filepath)
     done = True
 
    
